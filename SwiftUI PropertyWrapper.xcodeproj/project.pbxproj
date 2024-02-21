@@ -12,6 +12,7 @@
 		4B5A89EE2B79B9FD00EFFA4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B5A89ED2B79B9FD00EFFA4B /* Assets.xcassets */; };
 		4B5A89F12B79B9FD00EFFA4B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B5A89F02B79B9FD00EFFA4B /* Preview Assets.xcassets */; };
 		4B5A89F82B79BBC400EFFA4B /* ToggleChildView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5A89F72B79BBC400EFFA4B /* ToggleChildView.swift */; };
+		4B61A8BF2B85FDA400D9E283 /* TextFieldComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B61A8BE2B85FDA400D9E283 /* TextFieldComponent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		4B5A89ED2B79B9FD00EFFA4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B5A89F02B79B9FD00EFFA4B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4B5A89F72B79BBC400EFFA4B /* ToggleChildView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleChildView.swift; sourceTree = "<group>"; };
+		4B61A8BE2B85FDA400D9E283 /* TextFieldComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldComponent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				4B5A89E92B79B9FB00EFFA4B /* SwiftUI_PropertyWrapperApp.swift */,
 				4B5A89EB2B79B9FB00EFFA4B /* ContentView.swift */,
 				4B5A89F72B79BBC400EFFA4B /* ToggleChildView.swift */,
+				4B61A8BE2B85FDA400D9E283 /* TextFieldComponent.swift */,
 				4B5A89ED2B79B9FD00EFFA4B /* Assets.xcassets */,
 				4B5A89EF2B79B9FD00EFFA4B /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				4B5A89F82B79BBC400EFFA4B /* ToggleChildView.swift in Sources */,
 				4B5A89EC2B79B9FB00EFFA4B /* ContentView.swift in Sources */,
 				4B5A89EA2B79B9FB00EFFA4B /* SwiftUI_PropertyWrapperApp.swift in Sources */,
+				4B61A8BF2B85FDA400D9E283 /* TextFieldComponent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
